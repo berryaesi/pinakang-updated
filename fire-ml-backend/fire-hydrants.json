@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "number": "1",
+    "address": "Sta. Cruz",
+    "latitude": 14.280248,
+    "longitude": 121.394529,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T00:57:05.153112"
+  },
+  {
+    "id": 2,
+    "number": "2",
+    "address": "Sta. Cruz",
+    "latitude": 14.280069,
+    "longitude": 121.394703,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:01:04.264575"
+  },
+  {
+    "id": 3,
+    "number": "3",
+    "address": "Sta. Cruz",
+    "latitude": 14.273128,
+    "longitude": 121.400478,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:03:12.500842"
+  },
+  {
+    "id": 4,
+    "number": "4",
+    "address": "Sta. Cruz",
+    "latitude": 14.271956,
+    "longitude": 121.399617,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:03:45.794834"
+  },
+  {
+    "id": 5,
+    "number": "5",
+    "address": "Sta. Cruz",
+    "latitude": 14.271853,
+    "longitude": 121.399576,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:06:10.591436"
+  },
+  {
+    "id": 6,
+    "number": "6",
+    "address": "Sta. Cruz",
+    "latitude": 14.26305,
+    "longitude": 121.40111,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:06:49.049253"
+  },
+  {
+    "id": 7,
+    "number": "7",
+    "address": "Sta. Cruz",
+    "latitude": 14.27774,
+    "longitude": 121.411473,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:07:18.781417"
+  },
+  {
+    "id": 8,
+    "number": "8",
+    "address": "Sta. Cruz",
+    "latitude": 14.253727,
+    "longitude": 121.380829,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:11:46.168804"
+  },
+  {
+    "id": 9,
+    "number": "9",
+    "address": "Sta. Cruz",
+    "latitude": 14.248357,
+    "longitude": 121.378854,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:12:16.328216"
+  },
+  {
+    "id": 10,
+    "number": "10",
+    "address": "Sta. Cruz",
+    "latitude": 14.244188,
+    "longitude": 121.403141,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:12:53.306514"
+  },
+  {
+    "id": 11,
+    "number": "11",
+    "address": "Sta. Cruz",
+    "latitude": 14.272753,
+    "longitude": 121.421359,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:13:28.753820"
+  },
+  {
+    "id": 12,
+    "number": "12",
+    "address": "Sta. Cruz",
+    "latitude": 14.250796,
+    "longitude": 121.415993,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:14:00.931520"
+  },
+  {
+    "id": 13,
+    "number": "13",
+    "address": "Sta. Cruz",
+    "latitude": 14.278958,
+    "longitude": 121.415888,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:14:35.160066"
+  },
+  {
+    "id": 14,
+    "number": "14",
+    "address": "Sta. Cruz",
+    "latitude": 14.286795,
+    "longitude": 121.411203,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:15:05.705711",
+    "updated_at": "2026-01-06T01:15:17.781032"
+  },
+  {
+    "id": 15,
+    "number": "15",
+    "address": "Sta. Cruz",
+    "latitude": 14.287409,
+    "longitude": 121.411705,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:18:17.079377"
+  },
+  {
+    "id": 16,
+    "number": "16",
+    "address": "Sta. Cruz",
+    "latitude": 14.277512,
+    "longitude": 121.419285,
+    "status": "unserviceable",
+    "remarks": "",
+    "created_at": "2026-01-06T01:18:42.653837"
+  },
+  {
+    "id": 17,
+    "number": "17",
+    "address": "Sta. Cruz",
+    "latitude": 14.275834,
+    "longitude": 121.419642,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:19:25.199098",
+    "updated_at": "2026-01-06T01:19:32.820561"
+  },
+  {
+    "id": 18,
+    "number": "18",
+    "address": "Sta. Cruz",
+    "latitude": 14.279892,
+    "longitude": 121.415254,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:20:37.453601"
+  },
+  {
+    "id": 19,
+    "number": "19",
+    "address": "Sta. Cruz",
+    "latitude": 14.281046,
+    "longitude": 121.416473,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:21:07.904841"
+  },
+  {
+    "id": 20,
+    "number": "20",
+    "address": "Sta. Cruz",
+    "latitude": 14.281227,
+    "longitude": 121.416456,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:22:09.673437"
+  },
+  {
+    "id": 21,
+    "number": "21",
+    "address": "Sta. Cruz",
+    "latitude": 14.281045,
+    "longitude": 121.416963,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:22:40.011159"
+  },
+  {
+    "id": 22,
+    "number": "22",
+    "address": "Sta. Cruz",
+    "latitude": 14.28098,
+    "longitude": 121.416969,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:23:04.711048"
+  },
+  {
+    "id": 23,
+    "number": "23",
+    "address": "Sta. Cruz",
+    "latitude": 14.280987,
+    "longitude": 121.416969,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:24:04.312719"
+  },
+  {
+    "id": 24,
+    "number": "24",
+    "address": "Sta. Cruz",
+    "latitude": 14.285525,
+    "longitude": 121.414276,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T01:24:55.719883"
+  },
+  {
+    "id": 25,
+    "number": "25",
+    "address": "Sta. Cruz",
+    "latitude": 14.285548,
+    "longitude": 121.4143,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T01:25:34.700819"
+  },
+  {
+    "id": 26,
+    "number": "26",
+    "address": "Sta. Cruz",
+    "latitude": 14.284434,
+    "longitude": 121.414435,
+    "status": "unserviceable",
+    "remarks": "",
+    "created_at": "2026-01-06T01:26:20.193168"
+  },
+  {
+    "id": 27,
+    "number": "27",
+    "address": "Sta. Cruz",
+    "latitude": 14.285302,
+    "longitude": 121.412797,
+    "status": "unserviceable",
+    "remarks": "",
+    "created_at": "2026-01-06T01:27:56.877972"
+  },
+  {
+    "id": 28,
+    "number": "28",
+    "address": "Sta. Cruz",
+    "latitude": 14.287687,
+    "longitude": 121.411143,
+    "status": "unserviceable",
+    "remarks": "",
+    "created_at": "2026-01-06T02:04:19.648774"
+  },
+  {
+    "id": 29,
+    "number": "29",
+    "address": "Sta. Cruz",
+    "latitude": 14.293597,
+    "longitude": 121.407939,
+    "status": "operational",
+    "remarks": "High Pressure",
+    "created_at": "2026-01-06T02:05:01.889201"
+  },
+  {
+    "id": 30,
+    "number": "30",
+    "address": "Sta. Cruz",
+    "latitude": 14.289195,
+    "longitude": 121.413264,
+    "status": "unserviceable",
+    "remarks": "",
+    "created_at": "2026-01-06T02:05:29.098282"
+  },
+  {
+    "id": 31,
+    "number": "31",
+    "address": "Sta. Cruz",
+    "latitude": 14.281298,
+    "longitude": 121.410662,
+    "status": "operational",
+    "remarks": "Low Pressure",
+    "created_at": "2026-01-06T02:06:00.848199"
+  }
+]

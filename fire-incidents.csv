@@ -1,0 +1,7 @@
+STATION,DATE_OF_RESPONSE,LOCATION,RESPONDING_UNIT,TIME_RECEIVED,TIME_DISPATCHED,TIME_ARRIVAL,RESPONSE_TIME_MIN,DISTANCE,ALARM_STATUS,TIME_LAST_ALARM,TYPE_OF_OCCUPANCY,INJURED_CIV,INJURED_BFP,DEATH_CIV,DEATH_BFP,REMARKS,Temperature_C,Humidity_%,Wind_Speed_kmh,Precipitation_mm,Weather_Condition,Road_Condition
+"Santa Cruz, Laguna",01/05/2026,"Brgy. Oogong Sta. Cruz, Laguna",Shift A,02:24,02:24,02:33,9,2.0,FA,01/05/2026 02:24,Residential,0,0,0,0,Case Closed,24.0,92,9.6,0.0,Rainy,Wet
+"Santa Cruz, Laguna",01/05/2026,"Bubukal Sta. Cruz, Laguna",Shift B,03:20,03:20,03:25,5,1.0,FA,01/05/2026 03:20,Business,0,0,0,0,Case Closed,25.0,91,9.6,0.0,Rainy,Wet
+"Santa Cruz, Laguna",01/05/2026,"Brgy. Malinao Sta. Cruz, Laguna",Shift A,03:30,03:30,03:35,5,1.0,FA,01/05/2026 03:30,Residential,0,0,0,0,Case Closed,25.0,91,11.3,0.0,Rainy,Wet
+"Santa Cruz, Laguna",01/05/2026,"Brgy. Oogong Sta. Cruz, Laguna",Shift A,03:35,03:35,03:40,5,1.0,FA,01/05/2026 03:35,Residential,0,0,0,0,Case Closed,25.0,91,11.3,0.0,Rainy,Wet
+"Santa Cruz, Laguna",01/05/2026,"Bubukal Sta. Cruz, Laguna",Shift B,04:00,04:00,04:10,10,1.0,FA,01/05/2026 04:00,Residential,0,0,0,0,Case Closed,25.0,91,11.3,0.0,Rainy,Wet
+"Santa Cruz, Laguna",01/05/2026,"Brgy. Oogong Sta. Cruz, Laguna",Shift A,04:05,04:05,04:10,5,2.0,FA,01/05/2026 04:05,Residential,0,0,0,0,Case Closed,25.0,91,11.3,0.0,Rainy,Wet
